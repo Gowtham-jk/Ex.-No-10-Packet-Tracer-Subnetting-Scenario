@@ -1,5 +1,7 @@
 # Ex. No: 10 – Packet Tracer: Subnetting Scenario
-# Date: ___________
+# Name : Gowtham V
+# Register Number : 212223100009
+# Date:15.11.2025
 ________________________________________<br>
 # Objective
 Design, configure, and verify an IPv4 subnetting scheme in Cisco Packet Tracer.<br>
@@ -113,7 +115,33 @@ ________________________________________<br>
 ________________________________________<br>
 # Output (Attach Screenshots)
 •	show ip interface brief on R1 and R2<br>
+R1 :
+
+
+<img width="1919" height="1082" alt="image" src="https://github.com/user-attachments/assets/1d9337b1-1196-4f86-b4d0-c9199422f077" />
+S3 :
+
+
+
+<img width="1919" height="1086" alt="image" src="https://github.com/user-attachments/assets/a660eb71-48a2-451e-a55e-206ec4ab80c5" />
+
+
+
 •	Successful pings PC ↔ PC<br>
+
+
+<img width="1918" height="1080" alt="image" src="https://github.com/user-attachments/assets/a85ce018-8a0c-481a-89d1-09bdb8782f81" />
+
+
+
+<img width="1909" height="1091" alt="image" src="https://github.com/user-attachments/assets/b7fe5b8b-1939-4449-a07e-7c5337517c47" />
+
+
+•Activity Result :
+
+
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/2b07f1f6-e043-47ba-b1a8-8bac17e779d4" />
+
 ________________________________________<br>
 # Result
 The IPv4 subnetting scheme was successfully designed and implemented. Routers, switches, and PCs were configured with correct addressing. Connectivity within LANs and across WAN was verified.
